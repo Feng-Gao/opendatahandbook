@@ -1,0 +1,7 @@
+embeddedFonts: [songti.ttf,heiti.ttf]
+
+fontsAlias:
+    stdFont: songti
+    stdBold: heiti
+    stdItalic: songti
+    stdBoldItalic: heiti
